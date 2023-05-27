@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+it's a personal project by @gustavmk
+
+🙋‍ Your're about to see just automations and my sharing knowledges 
+
 <!--
 
 **Here are some ideas to get you started:**
